@@ -1,0 +1,2 @@
+# walmart-sales-performance-analysis-SQL-Python-Tableau-
+End-to-end data analysis project on Walmart sales data, involving data cleaning and querying using SQL, data processing with Python, and visualization through an interactive Tableau dashboard. The project highlights key insights such as sales performance, profitability, customer behavior, and product trends using Excel, SQL, Python, and Tableau.
